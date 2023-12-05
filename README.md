@@ -33,7 +33,6 @@ Explore a variety of mini-projects to strengthen your Data Science skills. Each 
 5. [House-Prices Prediction: Advanced Regression Techniques](https://github.com/Praveen76/House-Prices--Advanced-Regression-Techniques): Applies advanced regression techniques to predict house prices with 80 input features.
 6. [Fashion-MNIST Classification using Dense-Neural-Network](https://github.com/Praveen76/Fashion-MNIST-Classification-using-Dense-Neural-Network): Classifies Fashion MNIST dataset using Dense Neural Networks in Keras.
 7. [Bike Sharing demand Mini-Project](https://github.com/Praveen76/Bike-Sharing-Algorithm): Optimizes bike-sharing systems through advanced algorithms, leveraging data-driven approaches for distribution and user experience improvement.
-   <!-- Add more projects as needed -->
 
 Feel free to contribute by adding your own mini-projects to the list!
 
