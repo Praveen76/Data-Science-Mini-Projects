@@ -26,9 +26,13 @@ Explore a variety of mini-projects to strengthen your Data Science skills. Each 
 
 ## List of Mini-Projects
 
-1. [Project Title 1](link-to-repo-1): Brief description of the project.
-2. [Project Title 2](link-to-repo-2): Brief description of the project.
-3. [Project Title 3](link-to-repo-3): Brief description of the project.
+1. [Employee Attrition Mini-Project](https://github.com/Praveen76/Employee-Attrition-Mini-Project): Analyzes and addresses employee attrition in a mini project.
+2. [Images' Web-Scraping using Selenium-Python](https://github.com/Praveen76/Web-Scraping-using-Selenium-Python): Utilizes Selenium in Python for web scraping of images from the internet.
+3. [Acoustic Extinguisher Fire](https://github.com/Praveen76/AcousticExtinguisherFire): Explores the use of acoustic signals for fire detection and extinguishing.
+4. [Employee Abseentism Mini-Project](https://github.com/Praveen76/Employee-Abseentism-Project.git): Investigates and manages employee absenteeism in a comprehensive project.
+5. [House-Prices Prediction: Advanced Regression Techniques](https://github.com/Praveen76/House-Prices--Advanced-Regression-Techniques): Applies advanced regression techniques to predict house prices with 80 input features.
+6. [Fashion-MNIST Classification using Dense-Neural-Network](https://github.com/Praveen76/Fashion-MNIST-Classification-using-Dense-Neural-Network): Classifies Fashion MNIST dataset using Dense Neural Networks in Keras.
+7. [Bike Sharing demand Mini-Project](https://github.com/Praveen76/Bike-Sharing-Algorithm): Optimizes bike-sharing systems through advanced algorithms, leveraging data-driven approaches for distribution and user experience improvement.
    <!-- Add more projects as needed -->
 
 Feel free to contribute by adding your own mini-projects to the list!
