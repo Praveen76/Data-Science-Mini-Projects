@@ -11,8 +11,8 @@ Welcome to the "Data-Science-Mini-Projects" repository! This collection serves a
 - [List of Mini-Projects](#list-of-mini-projects)
 - [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
 - [Contact](#contact)
+- [About Me](#AboutMe)
 
 ## Introduction
 
@@ -50,7 +50,6 @@ If you have a Data Science mini-project that you'd like to share, please follow 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
 
 ## Contact
 
