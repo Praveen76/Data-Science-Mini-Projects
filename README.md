@@ -26,14 +26,14 @@ Explore a variety of mini-projects to strengthen your Data Science skills. Each 
 
 ## List of Mini-Projects
 
-1.[Images' Web-Scraping using Selenium-Python](https://github.com/Praveen76/Web-Scraping-using-Selenium-Python): Utilizes Selenium in Python for web scraping of images from the internet.
-2.[Face-Mask Detection using CNN](https://github.com/Praveen76/Face-Mask-Detection-using-CNN): Face Mask Detection using Convolutional Neural Networks for identifying individuals wearing masks in images.
-3.[Lungs Segmentation using ResNet50 and DeeplabV3](https://github.com/Praveen76/Lung-Segmentation-using-ResNet50-and-DeeplabV3): Lung Segmentation using ResNet50 and DeeplabV3 for precise extraction of lung regions in medical chest X-ray images.
-4.[Build a CNN for Image Classification](https://github.com/Praveen76/Build-a-CNN-for-Image-Classification): Building a Convolutional Neural Network (CNN) for image classification tasks.
-5.[Build CNN using Transfer Learning](https://github.com/Praveen76/Build-CNN-using-Transfer-Learning): Building a Convolutional Neural Network (CNN) using Transfer Learning for efficient image classification.
-6.[Image Segmentation using U-Net Model](https://github.com/Praveen76/Image-Segmentation-using-U-Net-Model): Image Segmentation using the U-Net Model for precise delineation of objects and structures in images.
-7.[Build YOLO Model from scratch](https://github.com/Praveen76/Build-YOLO-Model-from-scratch):Building a YOLO (You Only Look Once) model from scratch for efficient real-time object detection.
-8.[Modern SOTA CNN Architectures](https://github.com/Praveen76/Modern-SOTA-CNN-Architectures): Implementing modern state-of-the-art Convolutional Neural Network (CNN) architectures with a focus on interpretability.
+1. [Images' Web-Scraping using Selenium-Python](https://github.com/Praveen76/Web-Scraping-using-Selenium-Python): Utilizes Selenium in Python for web scraping of images from the internet.
+2. [Face-Mask Detection using CNN](https://github.com/Praveen76/Face-Mask-Detection-using-CNN): Face Mask Detection using Convolutional Neural Networks for identifying individuals wearing masks in images.
+3. [Lungs Segmentation using ResNet50 and DeeplabV3](https://github.com/Praveen76/Lung-Segmentation-using-ResNet50-and-DeeplabV3): Lung Segmentation using ResNet50 and DeeplabV3 for precise extraction of lung regions in medical chest X-ray images.
+4. [Build a CNN for Image Classification](https://github.com/Praveen76/Build-a-CNN-for-Image-Classification): Building a Convolutional Neural Network (CNN) for image classification tasks.
+5. [Build CNN using Transfer Learning](https://github.com/Praveen76/Build-CNN-using-Transfer-Learning): Building a Convolutional Neural Network (CNN) using Transfer Learning for efficient image classification.
+6. [Image Segmentation using U-Net Model](https://github.com/Praveen76/Image-Segmentation-using-U-Net-Model): Image Segmentation using the U-Net Model for precise delineation of objects and structures in images.
+7. [Build YOLO Model from scratch](https://github.com/Praveen76/Build-YOLO-Model-from-scratch): Building a YOLO (You Only Look Once) model from scratch for efficient real-time object detection.
+8. [Modern SOTA CNN Architectures](https://github.com/Praveen76/Modern-SOTA-CNN-Architectures): Implementing modern state-of-the-art Convolutional Neural Network (CNN) architectures with a focus on interpretability.
 9. [Employee Attrition Mini-Project](https://github.com/Praveen76/Employee-Attrition-Mini-Project): Analyzes and addresses employee attrition in a mini project.
 10. [Acoustic Extinguisher Fire](https://github.com/Praveen76/AcousticExtinguisherFire): Explores the use of acoustic signals for fire detection and extinguishing.
 11. [Employee Abseentism Mini-Project](https://github.com/Praveen76/Employee-Abseentism-Project.git): Investigates and manages employee absenteeism in a comprehensive project.
@@ -51,13 +51,6 @@ If you have a Data Science mini-project that you'd like to share, please follow 
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgments
-
-A big thank you to all contributors and creators of the mini-projects included in this collection.
-
-## Contact
-
-For questions, feedback, or collaboration opportunities, feel free to contact [your email or preferred contact method].
 
 ## Contact
 
