@@ -34,12 +34,13 @@ Explore a variety of mini-projects to strengthen your Data Science skills. Each 
 6. [Image Segmentation using U-Net Model](https://github.com/Praveen76/Image-Segmentation-using-U-Net-Model): Image Segmentation using the U-Net Model for precise delineation of objects and structures in images.
 7. [Build YOLO Model from scratch](https://github.com/Praveen76/Build-YOLO-Model-from-scratch): Building a YOLO (You Only Look Once) model from scratch for efficient real-time object detection.
 8. [Modern SOTA CNN Architectures](https://github.com/Praveen76/Modern-SOTA-CNN-Architectures): Implementing modern state-of-the-art Convolutional Neural Network (CNN) architectures with a focus on interpretability.
-9. [Employee Attrition Mini-Project](https://github.com/Praveen76/Employee-Attrition-Mini-Project): Analyzes and addresses employee attrition in a mini project.
-10. [Acoustic Extinguisher Fire](https://github.com/Praveen76/AcousticExtinguisherFire): Explores the use of acoustic signals for fire detection and extinguishing.
-11. [Employee Abseentism Mini-Project](https://github.com/Praveen76/Employee-Abseentism-Project.git): Investigates and manages employee absenteeism in a comprehensive project.
-12. [House-Prices Prediction: Advanced Regression Techniques](https://github.com/Praveen76/House-Prices--Advanced-Regression-Techniques): Applies advanced regression techniques to predict house prices with 80 input features.
-13. [Fashion-MNIST Classification using Dense-Neural-Network](https://github.com/Praveen76/Fashion-MNIST-Classification-using-Dense-Neural-Network): Classifies Fashion MNIST dataset using Dense Neural Networks in Keras.
-14. [Bike Sharing demand Mini-Project](https://github.com/Praveen76/Bike-Sharing-Algorithm): Optimizes bike-sharing systems through advanced algorithms, leveraging data-driven approaches for distribution and user experience improvement.
+9. [Loan Approval Classification using Advanced Techniques](https://github.com/Praveen76/Loan_Approval_Classifier_Advanced_Techniques/tree/main): Implement Loan Approval Classification using Advanced Techniques.
+10. [Employee Attrition Mini-Project](https://github.com/Praveen76/Employee-Attrition-Mini-Project): Analyzes and addresses employee attrition in a mini project.
+11. [Acoustic Extinguisher Fire](https://github.com/Praveen76/AcousticExtinguisherFire): Explores the use of acoustic signals for fire detection and extinguishing.
+12. [Employee Abseentism Mini-Project](https://github.com/Praveen76/Employee-Abseentism-Project.git): Investigates and manages employee absenteeism in a comprehensive project.
+13. [House-Prices Prediction: Advanced Regression Techniques](https://github.com/Praveen76/House-Prices--Advanced-Regression-Techniques): Applies advanced regression techniques to predict house prices with 80 input features.
+14. [Fashion-MNIST Classification using Dense-Neural-Network](https://github.com/Praveen76/Fashion-MNIST-Classification-using-Dense-Neural-Network): Classifies Fashion MNIST dataset using Dense Neural Networks in Keras.
+15. [Bike Sharing demand Mini-Project](https://github.com/Praveen76/Bike-Sharing-Algorithm): Optimizes bike-sharing systems through advanced algorithms, leveraging data-driven approaches for distribution and user experience improvement.
 
 Feel free to contribute by adding your own mini-projects to the list!
 
