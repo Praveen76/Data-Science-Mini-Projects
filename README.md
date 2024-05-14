@@ -28,7 +28,7 @@ Explore a variety of mini-projects to strengthen your Data Science skills. Each 
 
 ## NLP Projects:
 
-1. [LLNM Projects Hub](https://github.com/Praveen76/LLM-Projects-Archive)
+1. [LLM Projects Hub](https://github.com/Praveen76/LLM-Projects-Archive)
 
 ## Deep Learning Projects:
 
