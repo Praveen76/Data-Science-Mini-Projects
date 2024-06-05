@@ -41,17 +41,12 @@ Explore a variety of mini-projects to strengthen your Data Science skills. Each 
 7. [Build YOLO Model from scratch](https://github.com/Praveen76/Build-YOLO-Model-from-scratch): Building a YOLO (You Only Look Once) model from scratch for efficient real-time object detection.
 8. [Modern SOTA CNN Architectures](https://github.com/Praveen76/Modern-SOTA-CNN-Architectures): Implementing modern state-of-the-art Convolutional Neural Network (CNN) architectures with a focus on interpretability.
 9. [Fashion-MNIST Classification using Dense-Neural-Network](https://github.com/Praveen76/Fashion-MNIST-Classification-using-Dense-Neural-Network): Classifies Fashion MNIST dataset using Dense Neural Networks in Keras.
-10. **Image Classification with Vision-Transformer:**
-    - **Description:** This repository demonstrates how to perform image classification with Vision-Transformer.
-    - **Repository:** [Image Classification with Vision-Transformer](https://github.com/Praveen76/Image-Classification-with-Vision-Transformer)
 
-11. **Introduction to Stable-Diffusion:**
-    - **Description:** This repository introduces to Stable-diffusion and talks about basics it.
-    - **Repository:** [Introduction to Stable-Diffusion](https://github.com/Praveen76/Introduction-to-Stable-Diffusion)
+10. [Image Classification with Vision-Transformer](https://github.com/Praveen76/Image-Classification-with-Vision-Transformer): This repository demonstrates how to perform image classification with Vision-Transformer.
 
-12. **Introduction to Conditional-GANs:**
-    - **Description:** This repository introduces to Conditional-GANs(cGANs) and talks about basics it.
-    - **Repository:** [Introduction to Conditional-GANs](https://github.com/Praveen76/Introduction-to-Conditional-GANs)
+11. [Introduction to Stable-Diffusion](https://github.com/Praveen76/Introduction-to-Stable-Diffusion): This repository introduces to Stable-diffusion and talks about basics it.
+
+12. [Introduction to Conditional-GANs](https://github.com/Praveen76/Introduction-to-Conditional-GANs): This repository introduces to Conditional-GANs(cGANs) and talks about basics it.
 
 
 ## Machine Learning Projects:
