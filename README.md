@@ -58,6 +58,17 @@ Explore a variety of mini-projects to strengthen your Data Science skills. Each 
 5. [House-Prices Prediction: Advanced Regression Techniques](https://github.com/Praveen76/House-Prices--Advanced-Regression-Techniques): Applies advanced regression techniques to predict house prices with 80 input features.
 6. [Bike Sharing demand Mini-Project](https://github.com/Praveen76/Bike-Sharing-Algorithm): Optimizes bike-sharing systems through advanced algorithms, leveraging data-driven approaches for distribution and user experience improvement.
 
+## Computer Science Projects:
+
+1. [Introduction to OpenMP](https://github.com/Praveen76/Introduction-to-OpenMP): This repository provides an introduction to using OpenMP for parallelization in Python. The notebook demonstrates how to implement multiprocessing using OpenMP, along with the necessary concepts and examples.
+
+2. [OOPs in Python](https://github.com/Praveen76/Oops-in-Python) : This repository demonstrates the general structure of classes in Object-Oriented Programming (OOP) using Python. It aims to help you learn how to build your own classes, specialized to your needs.
+
+3. [Parallel Programming with MPI](https://github.com/Praveen76/Parallel-programming-with-MPI) : This repository demonstrates the implementation of standard message-passing algorithms using MPI (Message Passing Interface). It aims to help you understand the basics of point-to-point communication, blocking and non-blocking communication, and collective communication, along with their impact on program performance.
+
+4. [Time Complexity Analysis](https://github.com/Praveen76/Time-Complexity-Analysis): This repository contains a Jupyter Notebook that demonstrates the concept of computational complexity, focusing on time complexity and Big-O notation. It aims to help you understand these fundamental concepts and determine the time complexity of given algorithms.
+
+5. [Monitoring Resources Using Psutil](https://github.com/Praveen76/Monitoring-resources-using-Psutil): This repository demonstrates how to monitor various resources of your device using the psutil package in Python. This includes monitoring CPU, GPU, memory, disks, network, and sensors. Additionally, it explores the multiprocessing package to evaluate the advantages of parallelism in resource monitoring.
 
 ##
 
